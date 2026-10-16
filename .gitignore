@@ -1,0 +1,23 @@
+target/
+*.log
+cp.txt
+
+*.class
+*.jar
+*.war
+
+# H2 (base fichier eventuelle)
+*.db
+*.mv.db
+*.trace.db
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/
